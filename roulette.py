@@ -26,6 +26,8 @@ double = 1
 shield = 1
 cheat = False
 
+# Cag
+
 # Function to initialize the gun with a random number of real bullets (1 or 2)
 def initialize_gun():
     gun_size = 6
